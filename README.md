@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Amine Hajltaief</h1>
-<h3 align="center">A passionate frontend developer and designer. And I'm from Tunisia</h3>
+<h3 align="center">Passionate frontend developer and designer from Tunisia</h3>
 
 - 🔭 I’m currently studying at **Microverse**
 
